@@ -1,0 +1,57 @@
+.outline{
+    border: 3px solid black; 
+    width : 1000px ; 
+    height : 600px;
+    
+    margin: auto;
+
+}
+.inline{
+    border: 2px solid black; 
+    width : 850px ; 
+    height : 425px;
+    margin: auto;
+}
+.cen{
+   text-align: center; 
+   font-style: italic;
+
+}
+.cen2{
+    text-align: center;
+}
+.square{
+    border: 2px solid black;
+    width: 175px;
+    height: 175px;
+    position: relative;
+    left: 110px;
+    top : 50px;
+    
+
+}
+.circle{
+    border: 1px solid black;
+    width: 125px;
+    height: 135px;
+    line-height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    left :25px;
+    top: 20px;
+    text-align: center;
+   
+    
+    
+}
+
+.frm{
+    position: relative;
+    left:400px;
+    top: -125px;
+   
+}
+label{
+    width: 150px;
+    display: inline-block;
+} 
